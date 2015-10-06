@@ -3,7 +3,9 @@
 I really believe in this quote:
 
 ```
-Everyone should have the opportunity to learn to code. But it's not the answer to everything. Not everyone will like it or be good at it.
+Everyone should have the opportunity to learn to code.
+But it's not the answer to everything.
+Not everyone will like it or be good at it.
 ```
 -[Sam Altman, Twitter](https://twitter.com/sama/status/646032444089503744)
 
@@ -37,6 +39,7 @@ The first course is free to complete):
 Read these while you go through the course, all from [Eloquent Javascript](http://eloquentjavascript.net):
 
 [Eloquent Javascript Chapter 1 - Values, Types, and Operators](http://eloquentjavascript.net/01_values.html)
+
 [Eloquent Javascript Chapter 2 - Program Structure](http://eloquentjavascript.net/02_program_structure.html) (part of this spills over to the next Code School lesson)
 
 Code School normally costs $29/month, but follow [this link to get your first month for only $9](http://mbsy.co/cNwqQ). It's an affiliate link that I have from the site. I don't believe I get any sort of kickback unless you subscribe past the first month, and without it I would have pulled someone else's affiliate link off the internet. I think it's a fantastic program and it really helped me get pretty far when I was just starting out.
@@ -51,6 +54,7 @@ These are solid building blocks on your knowledge of programming. Continuing on 
 Continue reading the following from Eloquent Javascript:
 
 [Eloquent Javascript Chapter 2 - Program Structure](http://eloquentjavascript.net/02_program_structure.html)
+
 [Eloquent Javascript Chapter 4 - Objects and Arrays](http://eloquentjavascript.net/04_data.html), primarily the part on Arrays -- Objects are covered in the next section
 
 
@@ -63,6 +67,7 @@ Now we're getting to some really fun stuff. This is a difficult course for begin
 Continue reading the following from Eloquent Javascript:
 
 [Eloquent Javascript Chapther 3 - Functions](http://eloquentjavascript.net/03_functions.html)
+
 [Eloquent Javascript Chapter 4 - Objects and Arrays](http://eloquentjavascript.net/04_data.html), primarily the part on Objects
 
 If you're having a hard time on Closures, look into this blog post from the amazing [Javascript Is Sexy](http://javascriptissexy.com) blog:
