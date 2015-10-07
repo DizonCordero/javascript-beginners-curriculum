@@ -31,9 +31,10 @@ the arrangement of words and phrases to create well-formed sentences in a langua
 
 Every language has its own syntax. Javascript is no different.
 
-Code School has a great [Javascript Language Path](https://www.codeschool.com/paths/javascript) that helped me learn syntax and basic problem solving. It's a series of video lessons that are followed by live coding challenges. There's a helpful forum for people who are stuck.
+Code School has a great course [Javascript Language Path](https://www.codeschool.com/paths/javascript) that helped me learn syntax and basic problem solving. It's a series of video lessons that are followed by live coding challenges. There's a helpful forum for people who are stuck.
 
-The first course is free to complete):
+The first course is free to complete:
+
 [Code School - Javascript Road Trip Part 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
 
 Read these while you go through the course, all from [Eloquent Javascript](http://eloquentjavascript.net):
@@ -114,3 +115,9 @@ If you're done with everything else, it doesn't hurt to know about these:
 
 [Javascript Is Sexy - Apply, Call, and Bind Methods](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
 [Javascript Is Sexy - Understand the Keyword 'This' With Clarity and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+
+##Next Steps
+
+If you got this far, you're basically ready to start interviewing with Hack Reactor. Start the [Admissions Challenge](admissions.hackreactor.com) and schedule an interview once you pass it.
+
+If I know you personally, you should message me -- I'd love to personally test your skills and give you some advice. I'm always active on Facebook Messenger.
