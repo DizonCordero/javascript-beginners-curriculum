@@ -118,6 +118,6 @@ If you're done with everything else, it doesn't hurt to know about these:
 
 ##Next Steps
 
-If you got this far, you're basically ready to start interviewing with Hack Reactor. Start the [Admissions Challenge](http://admissions.hackreactor.com) and schedule an interview once you pass it.
+If you got this far, you're basically ready to start interviewing with Hack Reactor. Start the [Admissions Challenge](http://www.hackreactor.com/) by following that link, hitting 'Apply Now', and schedule an interview once you pass it.
 
 If I know you personally, you should message me -- I'd love to personally test your skills and give you some advice. I'm always active on Facebook Messenger.
