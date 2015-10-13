@@ -117,11 +117,14 @@ If you're done with everything else, it doesn't hurt to know about these:
 [Javascript Is Sexy - Understand the Keyword 'This' With Clarity and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
 ##Want Even More?
-Okay. If you found the JS Fundamentals Workshop to be difficult to 'get' on your own, you can pay to take one of these prep workshops offered by Hack Reactor and its sister schools. Word of warning -- these are expensive ($600-$1500+). I TA'ed the first iteration of Remote Prep, and think the curriculum is fantastic.
+Okay. If you found the JS Fundamentals Workshop to be difficult to 'get' on your own, you can pay to take one of these prep workshops offered by Hack Reactor and its sister schools. Word of warning -- these are not cheap ($600-$1500+). I TA'ed the first iteration of Remote Prep, and think the curriculum is fantastic.
 
 [Reactor Prep](http://www.meetup.com/hackreactor/)
+
 [Remote Prep](http://www.eventbrite.com/o/hack-reactor-remote-beta-8260605281)
+
 [Telegraph Prep](http://www.eventbrite.com/o/telegraph-academy-8184034008)
+
 [MakerPrep](http://www.eventbrite.com/o/makersquare-8124287691)
 
 I don't believe the curriculum is 100% consistent -- Telegraph Academy ran their own prep which was based off of the JS Fundamentals Workshop from Frontend Masters (the instructor, Bianca, is one of Telegraph's founders). All four are designed with the same goal in mind: to get you from "0 to 20". Your mileage may vary.
