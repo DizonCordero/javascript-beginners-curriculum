@@ -15,7 +15,7 @@ If you're interested in learning how to code, I'd love to give you a set of reso
 That Hack Reactor thing you did sounds pretty cool, but where do I start?
 ```
 
-This is what every friend who expresses even remote interest at what I've been up to for the past year asks. This list of resources is structured around one goal: To get you prepared to take Hack Reactor's admissions interview.
+This is what every friend who expresses even remote interest at what I've been up to for the past year asks. This list of resources is structured around one goal: To get you prepared to take Hack Reactor and its sister schools' (Telegraph Academy, MakerSquare, Hack Reactor Remote) admissions interview.
 
 Some of these resources will be paid ones. I've used them myself and have found tremendous value in them. Sure there's free alternatives you can scrap together, but I'm not going to bother listing them because I don't think they're good enough.
 
@@ -116,8 +116,16 @@ If you're done with everything else, it doesn't hurt to know about these:
 [Javascript Is Sexy - Apply, Call, and Bind Methods](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
 [Javascript Is Sexy - Understand the Keyword 'This' With Clarity and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
+##Want Even More?
+Okay. If you found the JS Fundamentals Workshop to be difficult to 'get' on your own, you can pay to take one of these prep workshops offered by Hack Reactor and its sister schools. Word of warning -- these are expensive ($600-$1500+). I TA'ed the first iteration of Remote Prep, and think the curriculum is fantastic.
+
+[Reactor Prep](http://www.meetup.com/hackreactor/)
+[Remote Prep](http://www.eventbrite.com/o/hack-reactor-remote-beta-8260605281)
+[Telegraph Prep](http://www.eventbrite.com/o/telegraph-academy-8184034008)
+[MakerPrep](http://www.eventbrite.com/o/makersquare-8124287691)
+
+I don't believe the curriculum is 100% consistent -- Telegraph Academy ran their own prep which was based off of the JS Fundamentals Workshop from Frontend Masters (the instructor, Bianca, is one of Telegraph's founders). All four are designed with the same goal in mind: to get you from "0 to 20". Your mileage may vary.
+
 ##Next Steps
 
 If you got this far, you're basically ready to start interviewing with Hack Reactor. Start the [Admissions Challenge](http://www.hackreactor.com/) by following that link, hitting 'Apply Now', and schedule an interview once you pass it.
-
-If I know you personally, you should message me -- I'd love to personally test your skills and give you some advice. I'm always active on Facebook Messenger.
