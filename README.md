@@ -1,31 +1,31 @@
 # Javascript Beginner's Curriculum
 
-## Table of Contents
+**Table of Contents**
 
 [Notes on this Repo](#notes)
 
 [Introduction](#intro)
 
-### Start Here
+**Start Here**
 [Syntax](#syntax)
 
 [Loops, Conditionals, Basic Data Structures](#loops)
 
-### Intermediate Learning
+**Intermediate Learning**
 
 [Functions, Closures, Objects, and Prototypes](#functions)
 
 [Best Practices](#bp)
 
-### Advanced Topics
+**Advanced Topics**
 
 [Higher Order Functions](#callbacks)
 
-### Troubleshooting
+**Troubleshooting**
 
 [Debugging](#debugging), **Added 10/24/2015**
 
-### Further Learning
+**Further Learning**
 
 [Coding Challenges](#challenges)
 
@@ -35,7 +35,7 @@
 
 [On-Site Learning](#prep)
 
-### Next Steps
+**Next Steps**
 
 [Next Steps](#next)
 
@@ -178,7 +178,7 @@ If you're done with everything else, it doesn't hurt to know about these:
 [Javascript Is Sexy - Understand the Keyword 'This' With Clarity and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
 ## <a id="prep"></a>On-Site Learning
-Okay. If you found the JS Fundamentals Workshop to be difficult to 'get' on your own, you can pay to take one of these prep workshops offered by Hack Reactor and its sister schools. Word of warning -- these are not cheap ($600-$1500+). I TA'ed the first iteration of Remote Prep, and think the curriculum is fantastic.
+Okay. If you found the JS Fundamentals Workshop to be difficult to 'get' on your own, you can pay to take one of these prep workshops offered by Hack Reactor and its sister schools. Word of warning -- these definitely require financial commitment ($600-$1500+). I TA'ed the first iteration of Remote Prep, and think the curriculum is fantastic.
 
 [Reactor Prep](http://www.meetup.com/hackreactor/)
 
@@ -190,7 +190,7 @@ Okay. If you found the JS Fundamentals Workshop to be difficult to 'get' on your
 
 I don't believe the curriculum is 100% consistent -- Telegraph Academy ran their own prep which was based off of the JS Fundamentals Workshop from Frontend Masters (the instructor, Bianca, is one of Telegraph's founders). All four are designed with the same goal in mind: to get you from "0 to 20". Your mileage may vary.
 
-Additionally, Hack Reactor is now offering its pre-course curriculum as a standalone package for anyone interested under the name 'Fulcrum':
+Additionally, Hack Reactor is now offering its pre-course curriculum as a standalone package for anyone interested under the name 'Fulcrum'. It runs $2,980 and information can be found here:
 
 [Hack Reactor Fulcrum](http://www.hackreactor.com/blog/fulcrum-pilot)
 
