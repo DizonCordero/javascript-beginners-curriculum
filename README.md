@@ -1,12 +1,13 @@
 # Javascript Beginner's Curriculum
 
-**Table of Contents**
+### Table of Contents
 
 [Notes on this Repo](#notes)
 
 [Introduction](#intro)
 
 **Start Here**
+
 [Syntax](#syntax)
 
 [Loops, Conditionals, Basic Data Structures](#loops)
@@ -23,7 +24,7 @@
 
 **Troubleshooting**
 
-[Debugging](#debugging), **Added 10/24/2015**
+[Debugging](#debugging), *added 10/24/2015*
 
 **Further Learning**
 
