@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-[Notes on this Repo](#Notes on this Repo)
+[Notes on this Repo](#notes)
 
-[Introduction](#Introduction)
+[Introduction](#intro)
 
 ### Start Here
 [Syntax](#The Basics: Syntax)
@@ -35,7 +35,7 @@
 
 [On-Site Learning](#On-Site Learning)
 
-## Notes on this Repo
+## <a id="notes"></a>Notes on this Repo
 
 This repo is bound to be updated with more resources as I find the time to do so. If you fork it, be sure this repo is set as your upstream and run `git pull upstream master` every once in a while to grab the latest version. Github has some [great documentation for doing this](https://help.github.com/articles/fork-a-repo/).
 
