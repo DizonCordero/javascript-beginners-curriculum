@@ -1,5 +1,8 @@
 # Javascript Beginner's Curriculum
 
+## Latest Update: 01/28/2016
++ Changed Code School link, since the previous one was broken
+
 ### Table of Contents
 
 [Notes on this Repo](#notes)
@@ -24,7 +27,7 @@
 
 **Troubleshooting**
 
-[Debugging](#debugging), *added 10/24/2015*
+[Debugging](#debugging)
 
 **Further Learning**
 
@@ -93,7 +96,7 @@ Read these while you go through the course, all from [Eloquent Javascript](http:
 
 [Eloquent Javascript Chapter 2 - Program Structure](http://eloquentjavascript.net/02_program_structure.html) (part of this spills over to the next Code School lesson)
 
-Code School normally costs $29/month, but follow [this link to get your first month for only $9](http://mbsy.co/cNwqQ). It's an affiliate link that I have from the site. I don't believe I get any sort of kickback unless you subscribe past the first month, and without it I would have pulled someone else's affiliate link off the internet. I think it's a fantastic program and it really helped me get pretty far when I was just starting out.
+A Code School subscription runs $29/month. It helped me get pretty far when I was just starting out, and I heavily recommend it.
 
 
 ## <a id="loops"></a>Loops, Conditionals, Basic Data Structures
