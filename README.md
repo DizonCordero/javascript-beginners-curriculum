@@ -1,7 +1,10 @@
 # Javascript Beginner's Curriculum
 
-## Latest Update: 01/28/2016
-+ Changed Code School link, since the previous one was broken
+## Latest Update: 02/06/2016
++ Tweaked introduction
++ Added Subscriptions section, letting you know what we'll be covering
++ Removed Prep links
++ Added Mock Interview section
 
 ### Table of Contents
 
@@ -10,6 +13,8 @@
 [Introduction](#intro)
 
 **Start Here**
+
+[Subscriptions](#subscriptions)
 
 [Syntax](#syntax)
 
@@ -37,11 +42,11 @@
 
 [Advanced Javascript Knowledge](#advanced)
 
-[On-Site Learning](#prep)
-
 **Next Steps**
 
 [Next Steps](#next)
+
+[Mock Interview](#mock)
 
 ***
 
@@ -70,9 +75,22 @@ That Hack Reactor thing you did sounds pretty cool, but where do I start?
 
 This is what every friend who expresses even remote interest at what I've been up to for the past year asks. This list of resources is structured around one goal: To get you prepared to take Hack Reactor and its sister schools' (Telegraph Academy, MakerSquare, Hack Reactor Remote) admissions interview.
 
-Some of these resources will be paid ones. I've used them myself and have found tremendous value in them. Sure there's free alternatives you can scrap together, but I'm not going to bother listing them because I don't think they're good enough.
+There's a severe problem with our tendency as humans to debate minutiae. *X is better than Y because of a marginal edge case of Z*. Please, that's one edge case that's not catch-all. *A combination of A, B, and C is just as good as paying for D*. I'm having none of it.
 
-You shouldn't be overwhelmed with a plethora of options when starting out, so I'm going to give this the Wirecutter treatment: The best resources, nothing less.
+If you're serious about actually doing something instead of spending hours deciding to do it, then this is a great guide for you. I'm giving this guide the Wirecutter treatment: **The best resources, nothing less**.
+
+
+## <a id="subscriptions"></a>Subscriptions
+
+First things first, some of these resources are paid. I don't work for these companies. I don't get a kickback from these companies. They are objectively more effective than trying to build your own curriculum with free alternatives, because of two reasons:
+
++ They're being paid to give you quality content
++ You will (hopefully) motivate yourself with a small financial commitment
+
+Let's look at the subscriptions you'll be signing up for:
+
+1. [Code School](https://www.codeschool.com) is $29/month. Buy this first.
+2. [Frontend Masters](https://www.frontendmasters.com) is $39/month. Buy this later.
 
 ## <a id="syntax"></a>Syntax
 
@@ -140,7 +158,7 @@ Okay. There's no Code School course for it, but don't panic. The following is El
 
 [Eloquent Javascript Chapter 5 - Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
-Additionally, Javascript Is Sexy had a great post on the same topic:
+Additionally, Javascript Is Sexy has a great post on the topic:
 
 [Javascript Is Sexy - Understand Javascript Callback Functions and Use Them](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 
@@ -164,8 +182,6 @@ You should be comfortable doing coding challenges and having fun with them. Thes
 
 [Coderbyte](http://coderbyte.com/CodingArea/Challenges/) is an awesome set of algorithms challenges. See if you can complete all of the challenges under 'Easy'.
 
-[Codewars](http://www.codewars.com/) is another really great site with community-built challenges. There's a coding challenge you have to take to get access to the site in the first place, and it's been very high quality. See if you can complete most 8-kyu through 7-kyu challenges, and some 6-kyu ones as well.
-
 ## <a id="fundamentals"></a>JS Fundamentals Workshop
 
 I attended an awesome Javascript workshop held at Hack Reactor last year. The good news is, you can watch it online and download the exercises. It's made available from a site called Frontend Masters, a tremendous resource in Javascript and other front-end related technology workshops. **A membership to the site runs $39/month**, and for just this single workshop alone it's worth the price of admission (I paid about $350 to take this in-person over the course of two Sundays). You get access to all of the workshops with this membership, and I think it's very well worth it:
@@ -181,23 +197,11 @@ If you're done with everything else, it doesn't hurt to know about these:
 [Javascript Is Sexy - Apply, Call, and Bind Methods](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
 [Javascript Is Sexy - Understand the Keyword 'This' With Clarity and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
-## <a id="prep"></a>On-Site Learning
-Okay. If you found the JS Fundamentals Workshop to be difficult to 'get' on your own, you can pay to take one of these prep workshops offered by Hack Reactor and its sister schools. Word of warning -- these definitely require financial commitment ($600-$1500+). I TA'ed the first iteration of Remote Prep, and think the curriculum is fantastic.
-
-[Reactor Prep](http://www.meetup.com/hackreactor/)
-
-[Remote Prep](http://www.eventbrite.com/o/hack-reactor-remote-beta-8260605281)
-
-[Telegraph Prep](http://www.eventbrite.com/o/telegraph-academy-8184034008)
-
-[MakerPrep](http://www.eventbrite.com/o/makersquare-8124287691)
-
-I don't believe the curriculum is 100% consistent -- Telegraph Academy ran their own prep which was based off of the JS Fundamentals Workshop from Frontend Masters (the instructor, Bianca, is one of Telegraph's founders). All four are designed with the same goal in mind: to get you from "0 to 20". Your mileage may vary.
-
-Additionally, Hack Reactor is now offering its pre-course curriculum as a standalone package for anyone interested under the name 'Fulcrum'. It runs $2,980 and information can be found here:
-
-[Hack Reactor Fulcrum](http://www.hackreactor.com/blog/fulcrum-pilot)
-
 ## <a id="next"></a>Next Steps
+If you're this far, congratulations! I think you have a good grasp on the basics of Javascript, and I encourage you to start interviewing for the program of your choice.
 
-If you got this far, you're basically ready to start interviewing with Hack Reactor. Start the [Admissions Challenge](http://www.hackreactor.com/) by following that link, hitting 'Apply Now', and schedule an interview once you pass it.
+## <a id="mock"></a>Mock Interviews
+
+I'm floating the idea of offering paid mock interviews if you're interested in having one. I find that the more interviews you do, the more prepared you are for them and I feel this is a valuable service.
+
+If you're interested, leave me your name and email at [this helpful Google Forms survey](https://docs.google.com/forms/d/13k5eVm3QWhZr8yINb1xJYlYOpZQlbL1FRlQ3Hhv3Lb4/viewform?usp=send_form). It really helps gauge interest and I'll be in touch once I figure things out.
