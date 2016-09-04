@@ -1,10 +1,7 @@
 # Javascript Beginner's Curriculum
 
-## Latest Update: 02/06/2016
-+ Tweaked introduction
-+ Added Subscriptions section, letting you know what we'll be covering
-+ Removed Prep links
-+ Added Mock Interview section
+## Latest Update: 09/03/2016
++ Removed Mock Interview section
 
 ### Table of Contents
 
@@ -45,8 +42,6 @@
 **Next Steps**
 
 [Next Steps](#next)
-
-[Mock Interview](#mock)
 
 ***
 
@@ -199,9 +194,3 @@ If you're done with everything else, it doesn't hurt to know about these:
 
 ## <a id="next"></a>Next Steps
 If you're this far, congratulations! I think you have a good grasp on the basics of Javascript, and I encourage you to start interviewing for the program of your choice.
-
-## <a id="mock"></a>Mock Interviews
-
-I'm floating the idea of offering paid mock interviews if you're interested in having one. I find that the more interviews you do, the more prepared you are for them and I feel this is a valuable service.
-
-If you're interested, leave me your name and email at [this helpful Google Forms survey](https://docs.google.com/forms/d/13k5eVm3QWhZr8yINb1xJYlYOpZQlbL1FRlQ3Hhv3Lb4/viewform?usp=send_form). It really helps gauge interest and I'll be in touch once I figure things out.
